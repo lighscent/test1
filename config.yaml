@@ -14,3 +14,7 @@ settings:
     - json
     - txt
     - md
+  production: false
+  maintainers:
+    - name: Developer
+      email: developer@example.com
