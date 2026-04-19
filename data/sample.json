@@ -1,6 +1,15 @@
 {
     "project": "test-githook-sample",
     "description": "Sample JSON data file for the repository.",
+    "version": "1.0.1",
+    "metadata": {
+        "createdBy": "Developer",
+        "date": "2026-04-19"
+    },
+    "dataFiles": [
+        "sample.json",
+        "info.txt"
+    ],
     "items": [
         {
             "id": 1,

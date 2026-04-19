@@ -1,7 +1,7 @@
 # Test Githook Sample Project
 
-This repository contains sample code and configuration files for JavaScript, Python, and C.
-It is designed as a lightweight demo workspace for testing file creation and project structure.
+This repository contains sample code, configuration, and data files for JavaScript, Python, and C.
+It is designed as a lightweight demo workspace for testing file creation, documentation, and project structure.
 
 ## Contents
 
@@ -10,6 +10,7 @@ It is designed as a lightweight demo workspace for testing file creation and pro
 - `config.yaml` — sample configuration file
 - `package.json` — JavaScript project metadata
 - `data/` — sample JSON and text data files
+- `README.md`, `LICENSE`, `.gitignore` — documentation and repository metadata
 
 ## Usage
 

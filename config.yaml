@@ -7,3 +7,10 @@ settings:
   debug: true
   logLevel: info
   maxItems: 100
+  supportedFormats:
+    - js
+    - py
+    - c
+    - json
+    - txt
+    - md
