@@ -8,7 +8,7 @@ It is designed as a lightweight demo workspace for testing file creation, docume
 - `example.js`, `example.py`, `example.c` — standalone sample programs
 - `samples/js`, `samples/python`, `samples/c` — language-specific examples
 - `config.yaml` — sample configuration file
-- `package.json` — JavaScript project metadata
+- `package.json` — JavaScript project metadata (added)
 - `data/` — sample JSON and text data files
 - `README.md`, `LICENSE`, `.gitignore` — documentation and repository metadata
 

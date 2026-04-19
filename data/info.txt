@@ -1,3 +1,5 @@
 Repository: test-githook-sample
 Description: Contains sample code, configuration, and data files for multiple languages.
+Version: 1.0.1
+Updated: 2026-04-19
 Notes: Use this folder to store sample non-code assets for demos or testing.
