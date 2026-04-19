@@ -1,0 +1,3 @@
+Repository: test-githook-sample
+Description: Contains sample code, configuration, and data files for multiple languages.
+Notes: Use this folder to store sample non-code assets for demos or testing.

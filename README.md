@@ -9,8 +9,16 @@ It is designed as a lightweight demo workspace for testing file creation and pro
 - `samples/js`, `samples/python`, `samples/c` — language-specific examples
 - `config.yaml` — sample configuration file
 - `package.json` — JavaScript project metadata
-- `data/` — sample data files
+- `data/` — sample JSON and text data files
 
 ## Usage
 
 Run the language samples using the appropriate interpreter or compiler.
+
+### Examples
+
+- `node example.js`
+- `python example.py`
+- `gcc example.c -o example && ./example`
+- `node samples/js/app.js`
+- `python samples/python/app.py`
