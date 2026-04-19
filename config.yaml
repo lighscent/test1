@@ -1,0 +1,9 @@
+project:
+  name: test-githook-sample
+  version: 1.0.0
+  description: Sample project configuration for multiple file types
+
+settings:
+  debug: true
+  logLevel: info
+  maxItems: 100

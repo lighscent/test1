@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# C build outputs
+*.o
+*.exe
+*.out
+
+# Temporary files
+.DS_Store
+*.log
